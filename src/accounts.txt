@@ -1,0 +1,7 @@
+# lines starting with hash tags are ignored. (comments)
+# format is "account name:::1337:::password"
+# first account on the list is always the default account.
+# (which can be changed by triple-clicking the button)
+Mage account:::123456:::foof
+Paladin account:::654321:::flooof
+111111 tibia:::111111:::tibia
